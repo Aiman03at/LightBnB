@@ -16,8 +16,8 @@ This project provides a Node.js API for interacting with a PostgreSQL database f
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/lightbnb-api.git
-    cd lightbnb-api
+    git clone git@github.com:Aiman03at/LightBnB.git
+    
     ```
 
 2. **Install dependencies:**
@@ -47,6 +47,7 @@ Fetches a user from the database by their email address.
 ### `getUserWithId(id)`
 
 Fetches a user from the database by their ID.
+
 
 - **Parameters:**
   - `id` (String): The ID of the user.
